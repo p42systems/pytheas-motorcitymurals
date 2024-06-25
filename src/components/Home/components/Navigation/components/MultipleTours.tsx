@@ -33,15 +33,6 @@ function MultipleTours() {
         style={{ display: useAtomValue(getDropDownAtom) }}
       >
         <DropDownOptionButton
-          title="Full Tour"
-          aria-label="Full Tour"
-          onClick={() => {
-            loadTour("full", setTourPreference, setLocation);
-          }}
-        >
-          Full Tour
-        </DropDownOptionButton>
-        <DropDownOptionButton
           title="Windsor Tour"
           aria-label="Windsor Tour"
           onClick={() => {

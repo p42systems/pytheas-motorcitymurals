@@ -15,7 +15,7 @@ function SingleTour() {
       title="Take Tour"
       aria-label="Take Tour"
       onClick={() => {
-        loadTour("full", setTourPreference, setLocation);
+        loadTour("detroit", setTourPreference, setLocation);
       }}
     >
       Take Tour

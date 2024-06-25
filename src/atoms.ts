@@ -338,18 +338,14 @@ export const detailsQueryAtom = atomWithQuery<
 export const boundingBoxQueryAtom = atomWithQuery<
   ReturnType<typeof fetchBoundingBox>,
   unknown
->((get) => {
-  const tourPreference = get(tourPreferenceAtom);
+>((get) => ({
+  queryKey: ["bounding_box"],
+  queryFn: async () => {
+    const tourPreference = get(tourPreferenceAtom);
 
-  let preferredQuery = {
-    queryKey: [`${tourPreference}_bounding_box`],
-    queryFn: async () => {
-      return fetchBoundingBox(tourPreference);
-    },
-  };
-
-  return preferredQuery;
-});
+    return fetchBoundingBox(tourPreference);
+  },
+}));
 
 export const paddedBoundingBoxAtom = atom<LatLngBounds>((get) => {
   return get(boundingBoxQueryAtom).pad(0.5);
