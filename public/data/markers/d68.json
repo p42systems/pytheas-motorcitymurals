@@ -5,6 +5,21 @@
             "path": "/photos/d681.png",
             "type": "image",
             "imageAlt": "Monsters"
+        },
+        {
+            "path": "/photos/d682.png",
+            "type": "image",
+            "imageAlt": "Monsters"
+        },
+        {
+            "path": "/photos/d683.png",
+            "type": "image",
+            "imageAlt": "Monsters"
+        },
+        {
+            "path": "/photos/d684.png",
+            "type": "image",
+            "imageAlt": "Monsters"
         }
     ],
     "description": "Artist unknown."

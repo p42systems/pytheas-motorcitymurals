@@ -4,7 +4,17 @@
         {
             "path": "/photos/d291.png",
             "type": "image",
-            "imageAlt": "Gratiot"
+            "imageAlt": "Gratiot Central Market"
+        },        
+        {
+            "path": "/photos/d292.png",
+            "type": "image",
+            "imageAlt": "Gratiot Central Market"
+        },
+        {
+            "path": "/photos/d293.png",
+            "type": "image",
+            "imageAlt": "Gratiot Central Market"
         }
     ],
     "description": "Artist unknown."

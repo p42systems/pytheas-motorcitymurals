@@ -5,7 +5,12 @@
             "path": "/photos/d341.png",
             "type": "image",
             "imageAlt": "Bert's Warehouse Theater"
+        },
+        {
+            "path": "/photos/d342.png",
+            "type": "image",
+            "imageAlt": "Bert's Warehouse Theater"
         }
     ],
-    "description": "Artist unknown."
+    "description": "Art by Sheefy."
 }

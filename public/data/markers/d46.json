@@ -5,7 +5,27 @@
             "path": "/photos/d461.png",
             "type": "image",
             "imageAlt": "Detroit Car Mural"
+        },
+        {
+            "path": "/photos/d462.png",
+            "type": "image",
+            "imageAlt": "Detroit Car Mural"
+        },
+        {
+            "path": "/photos/d463.png",
+            "type": "image",
+            "imageAlt": "Detroit Car Mural"
+        },
+        {
+            "path": "/photos/d464.png",
+            "type": "image",
+            "imageAlt": "Detroit Car Mural"
+        },
+        {
+            "path": "/photos/d465.png",
+            "type": "image",
+            "imageAlt": "Detroit Car Mural"
         }
     ],
-    "description": "Artist unknown."
+    "description": "Art by Michael Polakowski."
 }

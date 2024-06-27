@@ -4,7 +4,17 @@
         {
             "path": "/photos/d531.png",
             "type": "image",
-            "imageAlt": "WSU Lot 62"
+            "imageAlt": "University Dry Cleaners"
+        },
+        {
+            "path": "/photos/d532.png",
+            "type": "image",
+            "imageAlt": "University Dry Cleaners"
+        },
+        {
+            "path": "/photos/d533.png",
+            "type": "image",
+            "imageAlt": "University Dry Cleaners"
         }
     ],
     "description": "Artist unknown."

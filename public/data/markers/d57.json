@@ -5,6 +5,21 @@
             "path": "/photos/d571.png",
             "type": "image",
             "imageAlt": "Grand Blvd."
+        },
+        {
+            "path": "/photos/d572.png",
+            "type": "image",
+            "imageAlt": "Grand Blvd."
+        },
+        {
+            "path": "/photos/d573.png",
+            "type": "image",
+            "imageAlt": "Grand Blvd."
+        },
+        {
+            "path": "/photos/d574.png",
+            "type": "image",
+            "imageAlt": "Grand Blvd."
         }
     ],
     "description": "Artist unknown."

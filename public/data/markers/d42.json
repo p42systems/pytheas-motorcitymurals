@@ -5,6 +5,11 @@
             "path": "/photos/d421.png",
             "type": "image",
             "imageAlt": "Blk Grl Fly"
+        },
+        {
+            "path": "/photos/d422.png",
+            "type": "image",
+            "imageAlt": "Blk Grl Fly"
         }
     ],
     "description": "Artist unknown."

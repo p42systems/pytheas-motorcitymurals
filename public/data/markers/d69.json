@@ -5,7 +5,22 @@
             "path": "/photos/d691.png",
             "type": "image",
             "imageAlt": "Commonwealth Sewing Textile mill"
+        },
+        {
+            "path": "/photos/d692.png",
+            "type": "image",
+            "imageAlt": "Commonwealth Sewing Textile mill"
+        },
+        {
+            "path": "/photos/d693.png",
+            "type": "image",
+            "imageAlt": "Commonwealth Sewing Textile mill"
+        },
+        {
+            "path": "/photos/d694.png",
+            "type": "image",
+            "imageAlt": "Commonwealth Sewing Textile mill"
         }
     ],
-    "description": "Artist unknown."
+    "description": "Artists unknown."
 }

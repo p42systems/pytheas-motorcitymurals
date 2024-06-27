@@ -5,7 +5,12 @@
             "path": "/photos/d651.png",
             "type": "image",
             "imageAlt": "Rumrunner"
+        },
+        {
+            "path": "/photos/d652.png",
+            "type": "image",
+            "imageAlt": "Rumrunner"
         }
     ],
-    "description": "Artist unknown."
+    "description": "Art by Ghost Beard."
 }

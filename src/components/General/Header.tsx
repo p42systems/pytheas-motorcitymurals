@@ -13,7 +13,7 @@ import {
   HeaderHelpLinkContainer,
 } from "../styled_components";
 
-import bgImage from "/bg_main.jpg";
+import bgImage from "/bg_main.png";
 
 import { HeaderProps } from "../../types";
 

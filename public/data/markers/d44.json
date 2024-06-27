@@ -5,7 +5,12 @@
             "path": "/photos/d441.png",
             "type": "image",
             "imageAlt": "Greetings from Detroit"
+        },
+        {
+            "path": "/photos/d442.png",
+            "type": "image",
+            "imageAlt": "Greetings from Detroit"
         }
     ],
-    "description": "Artist unknown."
+    "description": "Art by Wilson."
 }

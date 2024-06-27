@@ -5,6 +5,21 @@
             "path": "/photos/d471.png",
             "type": "image",
             "imageAlt": "Old Shillelagh"
+        },
+        {
+            "path": "/photos/d472.png",
+            "type": "image",
+            "imageAlt": "Old Shillelagh"
+        },
+        {
+            "path": "/photos/d473.png",
+            "type": "image",
+            "imageAlt": "Old Shillelagh"
+        },
+        {
+            "path": "/photos/d474.png",
+            "type": "image",
+            "imageAlt": "Old Shillelagh"
         }
     ],
     "description": "Artist unknown."

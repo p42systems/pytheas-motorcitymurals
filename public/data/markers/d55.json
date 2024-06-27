@@ -5,6 +5,16 @@
             "path": "/photos/d551.png",
             "type": "image",
             "imageAlt": "Viaduct"
+        },
+        {
+            "path": "/photos/d552.png",
+            "type": "image",
+            "imageAlt": "Viaduct"
+        },
+        {
+            "path": "/photos/d553.png",
+            "type": "image",
+            "imageAlt": "Viaduct"
         }
     ],
     "description": "Artist unknown."

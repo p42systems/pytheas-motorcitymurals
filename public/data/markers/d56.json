@@ -4,7 +4,17 @@
         {
             "path": "/photos/d561.png",
             "type": "image",
-            "imageAlt": "Pistons / Lady with D Earring"
+            "imageAlt": "Pistons"
+        },
+        {
+            "path": "/photos/d562.png",
+            "type": "image",
+            "imageAlt": "Lady with D Earring"
+        },
+        {
+            "path": "/photos/d563.png",
+            "type": "image",
+            "imageAlt": "Lady with D Earring"
         }
     ],
     "description": "Artist unknown."

@@ -5,6 +5,16 @@
             "path": "/photos/d671.png",
             "type": "image",
             "imageAlt": "Bird"
+        },
+        {
+            "path": "/photos/d672.png",
+            "type": "image",
+            "imageAlt": "Bird"
+        },
+        {
+            "path": "/photos/d673.png",
+            "type": "image",
+            "imageAlt": "Bird"
         }
     ],
     "description": "Artist unknown."

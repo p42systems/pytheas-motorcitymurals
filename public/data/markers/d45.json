@@ -2,7 +2,32 @@
     "id": "d45",
     "url": [
         {
-            "path": "/photos/d471.png",
+            "path": "/photos/d451.png",
+            "type": "image",
+            "imageAlt": "The Belt"
+        },
+        {
+            "path": "/photos/d452.png",
+            "type": "image",
+            "imageAlt": "The Belt"
+        },
+        {
+            "path": "/photos/d453.png",
+            "type": "image",
+            "imageAlt": "The Belt"
+        },        
+        {
+            "path": "/photos/d454.png",
+            "type": "image",
+            "imageAlt": "Z Garage"
+        },
+        {
+            "path": "/photos/d455.png",
+            "type": "image",
+            "imageAlt": "Z Garage"
+        },
+        {
+            "path": "/photos/d456.png",
             "type": "image",
             "imageAlt": "Z Garage"
         }

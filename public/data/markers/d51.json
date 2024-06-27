@@ -5,7 +5,27 @@
             "path": "/photos/d511.png",
             "type": "image",
             "imageAlt": "Trinity Health Garage"
+        },
+        {
+            "path": "/photos/d512.png",
+            "type": "image",
+            "imageAlt": "Trinity Health Garage"
+        },
+        {
+            "path": "/photos/d513.png",
+            "type": "image",
+            "imageAlt": "Trinity Health Garage"
+        },
+        {
+            "path": "/photos/d514.png",
+            "type": "image",
+            "imageAlt": "Trinity Health Garage"
+        },
+        {
+            "path": "/photos/d515.png",
+            "type": "image",
+            "imageAlt": "Trinity Health Garage"
         }
     ],
-    "description": "Artist unknown."
+    "description": "Art by Bookies and unknown."
 }

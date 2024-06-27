@@ -5,6 +5,11 @@
             "path": "/photos/d281.png",
             "type": "image",
             "imageAlt": "Eastern Market"
+        },
+        {
+            "path": "/photos/d282.png",
+            "type": "image",
+            "imageAlt": "Eastern Market"
         }
     ],
     "description": "Artist unknown."

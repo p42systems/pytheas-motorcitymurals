@@ -5,7 +5,32 @@
             "path": "/photos/d411.png",
             "type": "image",
             "imageAlt": "City Walls 2"
+        },
+        {
+            "path": "/photos/d412.png",
+            "type": "image",
+            "imageAlt": "City Walls 2"
+        },
+        {
+            "path": "/photos/d413.png",
+            "type": "image",
+            "imageAlt": "City Walls 2"
+        },
+        {
+            "path": "/photos/d414.png",
+            "type": "image",
+            "imageAlt": "City Walls 2"
+        },
+        {
+            "path": "/photos/d415.png",
+            "type": "image",
+            "imageAlt": "City Walls 2"
+        },
+        {
+            "path": "/photos/d416.png",
+            "type": "image",
+            "imageAlt": "City Walls 2"
         }
     ],
-    "description": "Artist unknown."
+    "description": "Art by Jesse Kassel, Wilson, unknown, and @cmftmd."
 }

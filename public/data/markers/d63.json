@@ -5,6 +5,11 @@
             "path": "/photos/d631.png",
             "type": "image",
             "imageAlt": "Tangent Gallery"
+        },
+        {
+            "path": "/photos/d632.png",
+            "type": "image",
+            "imageAlt": "Tangent Gallery"
         }
     ],
     "description": "Artist unknown."

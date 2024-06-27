@@ -5,6 +5,31 @@
             "path": "/photos/d521.png",
             "type": "image",
             "imageAlt": "Detroit Public Theatre"
+        },
+        {
+            "path": "/photos/d522.png",
+            "type": "image",
+            "imageAlt": "Detroit Public Theatre"
+        },
+        {
+            "path": "/photos/d523.png",
+            "type": "image",
+            "imageAlt": "Detroit Public Theatre"
+        },
+        {
+            "path": "/photos/d524.png",
+            "type": "image",
+            "imageAlt": "Detroit Public Theatre"
+        },
+        {
+            "path": "/photos/d525.png",
+            "type": "image",
+            "imageAlt": "Detroit Public Theatre"
+        },
+        {
+            "path": "/photos/d526.png",
+            "type": "image",
+            "imageAlt": "Detroit Public Theatre"
         }
     ],
     "description": "Artist unknown."

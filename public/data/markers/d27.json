@@ -5,6 +5,10 @@
             "path": "/photos/d271.png",
             "type": "image",
             "imageAlt": "Back Seat"
+        },        {
+            "path": "/photos/d272.png",
+            "type": "image",
+            "imageAlt": "Back Seat"
         }
     ],
     "description": "Artist unknown."

@@ -5,6 +5,11 @@
             "path": "/photos/d661.png",
             "type": "image",
             "imageAlt": "Russel Industrial Center"
+        },
+        {
+            "path": "/photos/d662.png",
+            "type": "image",
+            "imageAlt": "Russel Industrial Center"
         }
     ],
     "description": "Artist unknown."
