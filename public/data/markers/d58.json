@@ -1,1 +1,11 @@
-{"id": "w", "url": [{"path": "/photos/w.png", "type": "image", "imageAlt": ""}], "description": "", "image": "/photos/w.png"}
+{
+    "id": "d58",
+    "url": [
+        {
+            "path": "/photos/d581.png",
+            "type": "image",
+            "imageAlt": "Shady Records"
+        }
+    ],
+    "description": "Artist unknown."
+}

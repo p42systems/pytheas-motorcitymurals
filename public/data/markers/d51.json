@@ -1,1 +1,11 @@
-{"id": "w", "url": [{"path": "/photos/w.png", "type": "image", "imageAlt": ""}], "description": "", "image": "/photos/w.png"}
+{
+    "id": "d51",
+    "url": [
+        {
+            "path": "/photos/d511.png",
+            "type": "image",
+            "imageAlt": "Trinity Health Garage"
+        }
+    ],
+    "description": "Artist unknown."
+}

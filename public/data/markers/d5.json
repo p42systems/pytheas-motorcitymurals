@@ -1,1 +1,11 @@
-{"id": "w", "url": [{"path": "/photos/w.png", "type": "image", "imageAlt": ""}], "description": "", "image": "/photos/w.png"}
+{
+    "id": "d5",
+    "url": [
+        {
+            "path": "/photos/d51.png",
+            "type": "image",
+            "imageAlt": "Family Mural"
+        }
+    ],
+    "description": "Artist unknown."
+}

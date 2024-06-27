@@ -1,1 +1,11 @@
-{"id": "w", "url": [{"path": "/photos/w.png", "type": "image", "imageAlt": ""}], "description": "", "image": "/photos/w.png"}
+{
+    "id": "d43",
+    "url": [
+        {
+            "path": "/photos/d431.png",
+            "type": "image",
+            "imageAlt": "Lafayette Park"
+        }
+    ],
+    "description": "Artist unknown."
+}

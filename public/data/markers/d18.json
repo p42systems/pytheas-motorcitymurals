@@ -1,1 +1,37 @@
-{"id": "w", "url": [{"path": "/photos/w.png", "type": "image", "imageAlt": ""}], "description": "", "image": "/photos/w.png"}
+{
+    "id": "d18",
+    "url": [
+        {
+            "path": "/photos/d181.png",
+            "type": "image",
+            "imageAlt": "Four Murals, plus one"
+        },        
+        {
+            "path": "/photos/d182.png",
+            "type": "image",
+            "imageAlt": "Four Murals, plus one"
+        },        
+        {
+            "path": "/photos/d183.png",
+            "type": "image",
+            "imageAlt": "Four Murals, plus one"
+        },        
+        {
+            "path": "/photos/d1814png",
+            "type": "image",
+            "imageAlt": "Milk and Froth"
+        },        
+        {
+            "path": "/photos/d18.21.png",
+            "type": "image",
+            "imageAlt": "Four Murals, plus one"
+        },        
+        {
+            "path": "/photos/d18.31.png",
+            "type": "image",
+            "imageAlt": "Four Murals, plus one"
+        }
+    
+    ],
+    "description": "Art by Freddy Diaz @swfreddy, Philip Simpson, Gus and Grey, unknown and Michelle Tanguay."
+}

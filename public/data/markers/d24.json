@@ -1,1 +1,21 @@
-{"id": "w", "url": [{"path": "/photos/w.png", "type": "image", "imageAlt": ""}], "description": "", "image": "/photos/w.png"}
+{
+    "id": "d24",
+    "url": [
+        {
+            "path": "/photos/d241.png",
+            "type": "image",
+            "imageAlt": "Detroit Distinct Life"
+        },        
+        {
+            "path": "/photos/d242.png",
+            "type": "image",
+            "imageAlt": "Artist unknown"
+        },       
+        {
+            "path": "/photos/d243.png",
+            "type": "image",
+            "imageAlt": "Artist unknown"
+        }
+    ],
+    "description": "Art by Distinct Life and unknown."
+}

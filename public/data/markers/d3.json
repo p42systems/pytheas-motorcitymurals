@@ -1,1 +1,16 @@
-{"id": "w", "url": [{"path": "/photos/w.png", "type": "image", "imageAlt": ""}], "description": "", "image": "/photos/w.png"}
+{
+    "id": "d3",
+    "url": [
+        {
+            "path": "/photos/d31.png",
+            "type": "image",
+            "imageAlt": "Floral Corral"
+        },
+        {
+            "path": "/photos/d32.png",
+            "type": "image",
+            "imageAlt": "Floral Corral"
+        }
+    ],
+    "description": "Artist unknown."
+}

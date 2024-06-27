@@ -1,1 +1,11 @@
-{"id": "w", "url": [{"path": "/photos/w.png", "type": "image", "imageAlt": ""}], "description": "", "image": "/photos/w.png"}
+{
+    "id": "d28",
+    "url": [
+        {
+            "path": "/photos/d281.png",
+            "type": "image",
+            "imageAlt": "Eastern Market"
+        }
+    ],
+    "description": "Artist unknown."
+}

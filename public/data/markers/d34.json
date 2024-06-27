@@ -1,1 +1,11 @@
-{"id": "w", "url": [{"path": "/photos/w.png", "type": "image", "imageAlt": ""}], "description": "", "image": "/photos/w.png"}
+{
+    "id": "d34",
+    "url": [
+        {
+            "path": "/photos/d341.png",
+            "type": "image",
+            "imageAlt": "Bert's Warehouse Theater"
+        }
+    ],
+    "description": "Artist unknown."
+}

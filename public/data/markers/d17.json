@@ -1,1 +1,21 @@
-{"id": "w", "url": [{"path": "/photos/w.png", "type": "image", "imageAlt": ""}], "description": "", "image": "/photos/w.png"}
+{
+    "id": "d17",
+    "url": [
+        {
+            "path": "/photos/d171.png",
+            "type": "image",
+            "imageAlt": "Chicken Wall"
+        },
+        {
+            "path": "/photos/d172.png",
+            "type": "image",
+            "imageAlt": "Chicken Wall"
+        },
+        {
+            "path": "/photos/d173.png",
+            "type": "image",
+            "imageAlt": "Chicken Wall"
+        }
+    ],
+    "description": "Artist unknown."
+}

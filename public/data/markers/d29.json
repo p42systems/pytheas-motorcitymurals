@@ -1,1 +1,11 @@
-{"id": "w", "url": [{"path": "/photos/w.png", "type": "image", "imageAlt": ""}], "description": "", "image": "/photos/w.png"}
+{
+    "id": "d29",
+    "url": [
+        {
+            "path": "/photos/d291.png",
+            "type": "image",
+            "imageAlt": "Gratiot"
+        }
+    ],
+    "description": "Artist unknown."
+}
