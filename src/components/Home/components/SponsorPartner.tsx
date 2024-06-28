@@ -27,8 +27,13 @@ function SponsorPartner() {
         />
         <SponsorPartnerImg
           large={false}
-          src="/logos/wera_logo.png"
-          alt="Windsor/Essex Rainbow Alliance"
+          src="/logos/windsoreats-logo.png"
+          alt="WindsorEats"
+        />
+        <SponsorPartnerImg
+          large={false}
+          src="/logos/mcc_logo.png"
+          alt="Multicultural Council of Windsor/Essex County"
         />
       </SponsorPartnerContainer>
     </>

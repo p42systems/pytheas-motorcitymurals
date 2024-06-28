@@ -87,7 +87,7 @@ function MarkerCard({ marker, selected, shouldScroll }: MarkerListItemProps) {
       />
       <CardContent>
         <CardHeader>{marker.name}</CardHeader>
-        <CardAddress>{marker.address}</CardAddress>
+        <CardAddress>{marker.address}{marker.id.substring(0,1)  == 'd' ? ", Detroit" : ", Windsor"}</CardAddress>
 
         <ViewCardButton
           aria-label={`View ${marker.name} content page`}

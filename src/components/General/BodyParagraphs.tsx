@@ -52,13 +52,19 @@ function BodyParagraphs(props: {
               links &&
               Object.keys(links).some((match) => content.includes(match))
             ) {
+              
               const match = Object.keys(links)
                 .filter((match) => content.includes(match))
                 .join("");
+              const parts = content.split(match);
               return (
-                <a href={links[match as any]} key={index}>
-                  {match}
-                </a>
+                <>
+                  {parts[0]}
+                  <a href={links[match as any]} key={index}>
+                    {match}
+                  </a>
+                  {parts[1]}
+                </>
               );
             } else {
               return content;

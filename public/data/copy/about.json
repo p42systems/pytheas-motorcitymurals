@@ -3,7 +3,8 @@
   "body": [
     "Parallel 42 Systems built this site for the benefit of the Windsor and Detroit communities. The tour app was built using the Pytheas project. This open-source code was provided to the community by Parallel 42 Systems based on their work with the McDougall Corridor tour app, built in partnership with the Essex County Black Historical Research Society, the Windsor Law Centre for Cities, the School of Creative Arts (SOCA), and Leddy Library, with funding provided by Canada's federal government through the Canadian Urban Institute.",
     "The work of implementing Motor City Murals was performed by Doug Sartori, Haley Tibbitts, Randy Topliffe and Lauren Hedges, with funding and support from Parallel 42 Systems and Windsor Hackforge.",
-    "Windsor photography by Lauren Hedges. Detroit photography by Haus of Vladia."
+    "Windsor photography by Lauren Hedges. Detroit photography by Haus of Vladia.",
+    "We've done our best to identify the artists who created the murals we feature. If you have verifiable information you'd like us to include, please contact us by email."
   ],
-  "links": null
+  "links": {"by email": "mailto:info@p42ystems.com"}
 }

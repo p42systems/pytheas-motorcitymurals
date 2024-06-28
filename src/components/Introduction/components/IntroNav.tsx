@@ -43,7 +43,7 @@ function IntroNav(props: {
               intro.clickLink(statementRef);
             }}
           >
-            A Statement from Walter Cassidy
+            A Message from Parallel 42 Systems
           </GeneralLink>
         </li>
         <li>
@@ -53,7 +53,7 @@ function IntroNav(props: {
               intro.clickLink(referencesRef);
             }}
           >
-            References
+            Special Thanks
           </GeneralLink>
         </li>
       </ul>
