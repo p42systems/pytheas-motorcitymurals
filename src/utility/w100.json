@@ -1,0 +1,12 @@
+{
+    "id": "w100",
+    "url": [
+        {
+            "path": "/photos/w1001.png",
+            "image": "/photos/w1001.png",
+            "type": "image",
+            "imageAlt": "Octoparrot"
+        }
+    ],
+    "description": "Artist unknown."
+}

@@ -20,7 +20,7 @@ function BodyParagraphs(props: {
       <>
         {body.map((paragraph: string, index: number) => {
           const paragraphArray = paragraph.split(
-            /(?=\*\*)|(?<=\*\*)|{{|}}|<a>/g
+            /(?=\*\*)|(?:\*\*)|{{|}}|<a>/g
           );
           const paragraphContent = paragraphArray.map((content, index) => {
             if (
